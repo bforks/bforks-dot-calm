@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Forks;Brittany;;;
+FN:Brittany Forks
+ORG:Kilobyte Couture;
+EMAIL;type=INTERNET;type=HOME;type=pref:brittany@brittanyforks.com
+EMAIL;type=INTERNET;type=WORK:brittany@kilobytecouture.com
+TEL;type=CELL;type=pref:662-312-4200
+item1.ADR;type=HOME;type=pref:;;235 Thimbleberry Road;Ballston Spa\,;MS;39759;United States
+item1.X-ABLabel:Mailing Address
+item1.X-ABADR:us
+item2.URL;type=pref:http\://brittanyforks.com
+item2.X-ABLabel:_$!<HomePage>!$_
+URL;type=WORK:http\://kilobytecouture.com
+BDAY;value=date:1985-04-01
+X-AIM;type=HOME;type=pref:kilobrittany
+X-ABUID:F62AB871-0AB9-4C86-BB5E-B77BBEF0F964\:ABPerson
+END:VCARD

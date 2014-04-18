@@ -1,0 +1,122 @@
+
+@font-face {
+    font-family: 'PlutoLight';
+    src: url('../webfonts/plutolight-webfont.eot');
+    src: url('../webfonts/plutolight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../webfonts/plutolight-webfont.woff') format('woff'),
+         url('../webfonts/plutolight-webfont.ttf') format('truetype'),
+         url('../webfonts/plutolight-webfont.svg#PlutoLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html, * {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'PlutoLight', Helvetica, sans-serif ;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100%;
+    line-height: 1;
+	padding-top: 80px;
+	color: #333;
+}
+
+header, section, footer,
+article, aside {
+    display: block;
+}
+
+p {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.8em;
+    margin-bottom: 1em;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #404040;
+}
+
+h1 small, h2 small, h3 small {
+    color: #bfbfbf;
+}
+
+h1 {
+    margin-bottom: 18px;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+h1 small {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+h2 small {
+    font-size: 14px;
+}
+
+h3 {
+    line-height: 36px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+a {
+    color: #fff;
+    padding: 2px 5px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    text-decoration: none;    
+}
+
+    a.pink { background-color: #ea4c88; }
+    a.green { background-color: #78a51f; }
+    a.blue { background-color: #1f78d2; }
+    a.purple { background-color: #784ba5; }
+
+a:hover, a:active {
+    background-image: url(../img/glass.png);
+    background-repeat: repeat-x;
+    background-position: 0 50%;
+}
+
+#container {
+    width: 670px;
+    margin: 0 auto;
+    zoom: 1;
+}
+
+.avatar {
+    background: url(../img/me.png) transparent no-repeat center top;
+    height: 400px;
+    width: 170px;
+    float: left;
+	margin-right: 40px;
+}
+
+.about {
+    height: 340px;
+    width: 460px;
+    float: left;
+}
+
+#signature {
+    height: 70px;
+    width: 100px;
+    background: url(../img/name.png) transparent no-repeat center center;
+	text-indent: -9999px;
+}

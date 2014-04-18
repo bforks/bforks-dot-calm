@@ -1,0 +1,1 @@
+ssh brittany@brittanyforks.com 'cd ~/www/brittanyforks.com && git pull origin master'

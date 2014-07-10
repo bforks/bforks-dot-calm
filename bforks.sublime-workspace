@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"Element"
+			],
+			[
+				"selec",
+				"selectEl"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lin",
+				"letter-spacing"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/index.php",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/bottom.php",
+			"settings":
+			{
+				"buffer_size": 1765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 7249,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brittany/Sites/app.kiip.me/.git/COMMIT_EDITMSG",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/_modules.scss",
+		"/Users/brittany/Sites/app.kiip.me/static/js/Kiip/Selfserve/Module.js",
+		"/Users/brittany/Sites/app.kiip.me/static/js/Kiip/Modules/Module.js",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/old/Modules.css",
+		"/Users/brittany/Sites/app.kiip.me/static/js/MobileDemo.js",
+		"/Users/brittany/Sites/app.kiip.me/templates/email/moments_shut_off.html",
+		"/Users/brittany/Sites/app.kiip.me/templates/misc/mgc_leaderboard.html",
+		"/Users/brittany/Sites/app.kiip.me/app.kiip.me.sublime-project",
+		"/Users/brittany/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brittany/Sites/app.kiip.me/models/campaign.py",
+		"/Users/brittany/Sites/app.kiip.me/api/campaign_moment.py",
+		"/Users/brittany/Sites/app.kiip.me/api/connect_auth.py",
+		"/Users/brittany/Sites/app.kiip.me/celeryconfig.py",
+		"/Users/brittany/Sites/app.kiip.me/api/__init__.py",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/_campaign.scss",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/modules/_campaign-utilities.scss",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/_developer.scss",
+		"/Users/brittany/Sites/app.kiip.me/templates/includes/status-analytics.html",
+		"/Users/brittany/Sites/app.kiip.me/static/js/Kiip/Matcher/InputSelect.js",
+		"/Users/brittany/Sites/app.kiip.me/templates/advertiser/insights.html",
+		"/Users/brittany/Sites/app.kiip.me/init.py",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/CampaignDashboard.scss",
+		"/Users/brittany/Sites/app.kiip.me/api/campaign_cache.py",
+		"/Users/brittany/Sites/app.kiip.me/static/css/CampaignDashboard.css",
+		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/_selfserve.scss",
+		"/Users/brittany/Sites/app.kiip.me/.sass-cache/5f7090d1db65d5de725691329a2ca42bf032ace8/_selfserve.scssc",
+		"/Users/brittany/Sites/app.kiip.me/.sass-cache/2e7d1e9200960467ab6bdc600ffcc97dcea9efe8/_selfserve.scssc",
+		"/Users/brittany/Sites/app.kiip.me/.sass-cache/bb2743432921f89b5626ae6c579bf9ff82cd28b8/_save-reset.scssc",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/public/javascripts/main.js",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/.gitignore",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/lib/_stream_transform.js",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/files/52850-1bg0bjy.png",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/package.json",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/public/stylesheets/style.css",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/views/index.ejs",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/views/brittany.ejs",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/app.js",
+		"/Users/brittany/Sites/v2-kiip.me/server.py",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/public/stylesheets/normalize.css",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/routes/index.js",
+		"/Users/brittany/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/brittany/.profile",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/views/\"brittany.ejs\".html",
+		"/Users/brittany/Sites/app.kiip.me/config/default.py",
+		"/Users/brittany/Sites/app.kiip.me/config/__init__.py",
+		"/Users/brittany/Sites/app.kiip.me/node_modules/grunt/lib/grunt/config.js",
+		"/Users/brittany/Sites/app.kiip.me/conftest.py",
+		"/Users/brittany/Sites/app.kiip.me/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/views/layout.ejs",
+		"/Users/brittany/Dropbox/hotdogs/sparkles/views/home/index.ejs",
+		"/Users/brittany/Desktop/mailchimp_email_i_hate_you.html",
+		"/Users/brittany/Library/Mobile Documents/8482Q6EPL6~com~codeux~irc~textual/Styles/Simplified Dark/design.css",
+		"/Users/brittany/Sites/app.kiip.me/templates/misc/mgc_rules.html",
+		"/Users/brittany/Sites/app.kiip.me/templates/misc/mgc_home.html",
+		"/Users/brittany/Sites/app.kiip.me/templates/misc/mgc_overall.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"tab",
+			"large-label",
+			"mini",
+			"alternate",
+			"d8d8d8",
+			"51614d",
+			"3b3b3b",
+			"abcfbc",
+			"cecece",
+			"pulse",
+			"30s",
+			"myanim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 337.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "work/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "work/sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "work/bottom.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1067,
+								1067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bforks.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"module",
+				"static/js/Kiip/Connect/MomentEditor/Module.js"
+			],
+			[
+				"campaignself",
+				"static/sass/CampaignSelfserve.scss"
+			],
+			[
+				"_self",
+				"static/sass/partials/_selfserve.scss"
+			],
+			[
+				"_colr",
+				"static/sass/partials/_colors.scss"
+			],
+			[
+				"_defau",
+				"static/sass/partials/buttons/_default.scss"
+			],
+			[
+				"_selfs",
+				"static/sass/partials/_selfserve.scss"
+			],
+			[
+				"sty",
+				"public/stylesheets/style.css"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"index",
+				"views/index.ejs"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"config/dev",
+				"config/development.py"
+			],
+			[
+				"mgc",
+				"templates/misc/mgc_leaderboard.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

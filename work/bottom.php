@@ -1,5 +1,5 @@
 	<div class="footer">
-		<p>&copy; 2013 &amp; forever</p>
+		<p>&copy; 2014 &amp; forever</p>
 	</div>
 
 <!-- JavaScript at the bottom for fast page loading -->
@@ -23,12 +23,12 @@
 	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
 	<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 	<![endif]-->
-	
+
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=7822833; 
-var sc_invisible=1; 
-var sc_security="367b3d40"; 
+var sc_project=7822833;
+var sc_invisible=1;
+var sc_security="367b3d40";
 </script>
 <script type="text/javascript"
 src="http://www.statcounter.com/counter/counter.js"></script>

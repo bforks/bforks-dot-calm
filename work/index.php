@@ -27,34 +27,35 @@
 		</li>
 	   <li>
 			<a href="girltalk.php">
-			<img src="../img/work/girltalk-thumb.png" />	
+			<img src="../img/work/girltalk-thumb.png" />
 			<h3>Girl Talk Poster</h3>
 			</a>
 		</li>-->
+		<!-- sup girl -->
 	   <li>
 			<a href="linkasaurus.php">
-			<img src="../img/work/linkasaurus-thumb.png" />	
+			<img src="../img/work/linkasaurus-thumb.png" />
 			<h3>Linkasaur.us</h3>
 			</a>
 		</li>
 	   <li>
 			<a href="kilobytecouture.php">
-			<img src="../img/work/kico-thumb.png" />	
+			<img src="../img/work/kico-thumb.png" />
 			<h3>Kilobyte Couture</h3>
 			</a>
 		</li>
 	   <li>
 			<a href="rapgrounds.php">
-			<img src="../img/work/hood-thumb.png" />	
+			<img src="../img/work/hood-thumb.png" />
 			<h3>Rapgrounds</h3>
 			</a>
 		</li>
 	   <li>
 		<a href="logos.php">
-		<img src="../img/work/logos-thumb.png" />	
+		<img src="../img/work/logos-thumb.png" />
 		<h3>Logos</h3>
 		</a>
 		</li>
-	</ul>  
+	</ul>
 </div>
 <?php include_once 'bottom.php'; ?>

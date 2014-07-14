@@ -8,7 +8,6 @@
          url('../webfonts/plutolight-webfont.svg#PlutoLight') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
 
 html, * {
@@ -17,12 +16,12 @@ html, * {
 }
 
 body {
-    font-family: 'PlutoLight', Helvetica, sans-serif ;
+    font-family: 'Avenir Next', Helvetica, sans-serif ;
     font-weight: normal;
     font-style: normal;
     font-size: 100%;
     line-height: 1;
-	padding-top: 80px;
+	padding-top: 100px;
 	color: #333;
 }
 
@@ -32,9 +31,9 @@ article, aside {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: normal;
-    line-height: 1.8em;
+    line-height: 2em;
     margin-bottom: 1em;
 }
 
@@ -75,48 +74,43 @@ h3 {
 }
 
 a {
-    color: #fff;
-    padding: 2px 5px;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    text-decoration: none;    
+    color: #000;
+    text-decoration: none;
 }
 
-    a.pink { background-color: #ea4c88; }
-    a.green { background-color: #78a51f; }
-    a.blue { background-color: #1f78d2; }
-    a.purple { background-color: #784ba5; }
+    a.pink { color: #E8849B; }
+    a.green { color: #78a51f; }
+    a.blue { color: #1f78d2; }
+    a.purple { color: #784ba5; }
 
 a:hover, a:active {
-    background-image: url(../img/glass.png);
     background-repeat: repeat-x;
     background-position: 0 50%;
 }
 
 #container {
-    width: 670px;
+    width: 500px;
     margin: 0 auto;
     zoom: 1;
 }
 
-.avatar {
-    background: url(../img/me.png) transparent no-repeat center top;
-    height: 400px;
-    width: 170px;
-    float: left;
-	margin-right: 40px;
+.strawberry {
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.strawberry img {
+    margin: -30px 0 -30px 35px;
+    width: 60px;
+    z-index: 100;
 }
 
 .about {
-    height: 340px;
+    height: 445px;
     width: 460px;
     float: left;
+    padding: 35px 30px 0;
+    border: 5px solid #000;
 }
 
-#signature {
-    height: 70px;
-    width: 100px;
-    background: url(../img/name.png) transparent no-repeat center center;
-	text-indent: -9999px;
-}

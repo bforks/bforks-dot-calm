@@ -66,14 +66,12 @@ a:hover {
 }
 
 .header h1 {
-	background: white url('../img/header2.png') no-repeat scroll 0 0;
-	height: 111px;
+	background: white url('../img/chibi-strawberry.png') no-repeat scroll 0 0;
 	float: left;
-	margin: 0;
-	width: 205px;
+	margin: 10px 0 0 0;
+	width: 56px;
+	height: 78px;
 	text-indent: -9999px;
-.header h1:hover {
-	background-position: 0 -111px;
 }
 
 .header h1 a { display: block; height: 100%; }

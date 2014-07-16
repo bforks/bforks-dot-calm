@@ -57,10 +57,6 @@ a:hover {
 .header {
 	margin: 0 0 25px;
 	background-color: #fff;
-	border-bottom: 1px solid #eee;
-	box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
-	-moz-box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
-	-webkit-box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
 }
 
 .header .wrapper {
@@ -76,11 +72,6 @@ a:hover {
 	margin: 0;
 	width: 205px;
 	text-indent: -9999px;
-	box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
-	-moz-box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
-	-webkit-box-shadow: inset 0px -14px 5px -12px rgba(0,0,0,.2);
-}
-
 .header h1:hover {
 	background-position: 0 -111px;
 }

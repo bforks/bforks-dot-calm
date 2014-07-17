@@ -1,5 +1,5 @@
 	<div class="footer">
-		<p>&copy; 2014 &amp; forever</p>
+		<p>&copy; <a href="mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x62;&#x72;&#x69;&#x74;&#x74;&#x61;&#x6E;&#x79;&#x66;&#x6F;&#x72;&#x6B;&#x73;&#x2E;&#x63;&#x6F;&#x6D;">brittany forks</a>. 2014 &amp; forever.</p>
 	</div>
 
 <!-- JavaScript at the bottom for fast page loading -->

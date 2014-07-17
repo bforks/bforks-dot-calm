@@ -390,8 +390,18 @@ ul.tags {
 .footer {
 	clear: both;
 	float: left;
+	width: 100%;
 	margin-top: 20px;
+	padding: 20px 0;
 	color: #aaa;
+	border-top: 1px solid #ccc;
+	text-align: center;
+	font-size: 12px;
+}
+
+.footer a {
+	color: #aaa;
+	text-decoration: underline;
 }
 
 /* clearfix */

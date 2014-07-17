@@ -55,7 +55,7 @@ a:hover {
 /* Header */
 
 .header {
-	margin: 0 0 25px;
+	margin: 0 0 40px;
 	background-color: #fff;
 }
 
@@ -66,12 +66,16 @@ a:hover {
 }
 
 .header h1 {
-	background: white url('../img/chibi-strawberry.png') no-repeat scroll 0 0;
+	background: white url('../img/chibi-strawb.png') no-repeat scroll 0 0;
 	float: left;
 	margin: 10px 0 0 0;
 	width: 56px;
 	height: 78px;
 	text-indent: -9999px;
+}
+
+.header h1:hover {
+  background-position: 0 -78px;
 }
 
 .header h1 a { display: block; height: 100%; }
@@ -100,7 +104,7 @@ a:hover {
 }
 .header li a:hover  {
 	color: #fff;
-	background-color: #ea4c88;
+	background-color: #E8849B;
 	background-image: url(../img/glass.png);
     background-repeat: repeat-x;
     background-position: 0 50%;

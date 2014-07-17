@@ -112,6 +112,8 @@ a:hover {
 
 /* Content Pages */
 
+
+
 .main-with-sidebar {
 	background: #fff;
 	float: left;
@@ -238,9 +240,9 @@ a:hover {
 	float: left;
 	margin-right: 7px;
 	-webkit-transition:	.25s all ease;
-	-moz-transition:	.25s all ease;
-	-o-transition:		.25s all ease;
-	transition:			.25s all ease;
+		 -moz-transition:	.25s all ease;
+			 -o-transition:	.25s all ease;
+					transition:	.25s all ease;
 }
 
 .social li:last-child { margin-right: 0; }
@@ -347,7 +349,6 @@ h1.hello {
 	display: block;
 	height: 100%;
 }
-
 
 /* tab
 .showcase:before { content: '.'; display: block; position: relative; width: 50px; height: 50px; background-color: #eee; text-indent: -9999px; left: 20px; top: 545px; z-index: 50;

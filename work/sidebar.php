@@ -4,12 +4,17 @@
      <ul></ul>
   </section>
 
-  <!--
+
   <section class="feed twitter">
      <h1>Tweeted</h1>
-     <ul class="linkify"></ul>
+     <a class="twitter-timeline"
+      data-tweet-limit="1"
+      data-chrome="nofooter noheader no-borders transparent"
+      href="https://twitter.com/brittanyforks"
+      data-widget-id="493982143748374528">Tweets by @brittanyforks
+    </a>
   </section>
-  -->
+
 
   <section class="social icons">
      <h1>Elsewhere</h1>

@@ -55,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3645,
+				"buffer_size": 3536,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +63,31 @@
 			"file": "work/index.php",
 			"settings":
 			{
-				"buffer_size": 1232,
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/disney-logo.php",
+			"settings":
+			{
+				"buffer_size": 1392,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/rapgrounds.php",
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/kiip.php",
+			"settings":
+			{
+				"buffer_size": 1380,
 				"line_ending": "Unix"
 			}
 		},
@@ -71,7 +95,7 @@
 			"file": "work/sidebar.php",
 			"settings":
 			{
-				"buffer_size": 710,
+				"buffer_size": 701,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +103,7 @@
 			"file": "work/bottom.php",
 			"settings":
 			{
-				"buffer_size": 1765,
+				"buffer_size": 1933,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +111,15 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 7249,
+				"buffer_size": 6988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/blueprint.css",
+			"settings":
+			{
+				"buffer_size": 1843,
 				"line_ending": "Unix"
 			}
 		}
@@ -129,6 +161,7 @@
 	},
 	"file_history":
 	[
+		"/Users/brittany/Sites/bforks/work/bottom.php",
 		"/Users/brittany/Sites/app.kiip.me/.git/COMMIT_EDITMSG",
 		"/Users/brittany/Sites/app.kiip.me/static/sass/partials/_modules.scss",
 		"/Users/brittany/Sites/app.kiip.me/static/js/Kiip/Selfserve/Module.js",
@@ -242,15 +275,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3645,
+						"buffer_size": 3536,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2472,
+								2472
 							]
 						],
 						"settings":
@@ -258,10 +291,10 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 337.0,
+						"translation.y": 171.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -270,15 +303,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1232,
+						"buffer_size": 1245,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								703,
+								703
 							]
 						],
 						"settings":
@@ -295,26 +328,25 @@
 				},
 				{
 					"buffer": 2,
-					"file": "work/sidebar.php",
+					"file": "work/disney-logo.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 710,
+						"buffer_size": 1392,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								593,
-								593
+								626,
+								626
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -325,24 +357,25 @@
 				},
 				{
 					"buffer": 3,
-					"file": "work/bottom.php",
+					"file": "work/rapgrounds.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1765,
+						"buffer_size": 892,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								892,
+								892
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -353,19 +386,112 @@
 				},
 				{
 					"buffer": 4,
-					"file": "css/style.css",
-					"semi_transient": false,
+					"file": "work/kiip.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 7249,
+						"buffer_size": 1380,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1067,
-								1067
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "work/sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 67.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "work/bottom.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6678,
+								6678
 							]
 						],
 						"settings":
@@ -374,10 +500,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5759.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/blueprint.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 595.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -400,11 +556,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.685494755091,
 			1.0
 		],
 		"rows":
@@ -503,7 +666,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,

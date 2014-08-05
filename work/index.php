@@ -2,17 +2,26 @@
 <div class="main">
 	<ul class="gallery">
 		<li>
+			<a href="kudos.php">
+			<img src="../img/work/kudos-thumb.png" />
+			<h3>Kudos</h3>
+			</a>
+		</li>
+
+		<li>
+			<a href="kiip.php">
+			<img src="../img/work/kiip-thumb.png" />
+			<h3>Kiip</h3>
+			</a>
+		</li>
+
+		<li>
 			<a href="wanelo.php">
 			<img src="../img/work/wanelo-thumb.png" />
 			<h3>Wanelo</h3>
 			</a>
 		</li>
-		<li>
-			<a href="twice.php">
-			<img src="../img/work/twice-thumb.png" />
-			<h3>Twice</h3>
-			</a>
-		</li>
+
 		<li>
 			<a href="everlane.php">
 			<img src="../img/work/everlane-thumb.png" />
@@ -30,6 +39,12 @@
 			<img src="../img/work/girltalk-thumb.png" />
 			<h3>Girl Talk Poster</h3>
 			</a>
+		</li>
+		<li>
+			<a href="twice.php">
+			<img src="../img/work/twice-thumb.png" />
+			<h3>Twice</h3>
+			</a>
 		</li>-->
 		<!-- sup girl -->
 	   <li>
@@ -38,24 +53,28 @@
 			<h3>Linkasaur.us</h3>
 			</a>
 		</li>
+
 	   <li>
 			<a href="kilobytecouture.php">
 			<img src="../img/work/kico-thumb.png" />
 			<h3>Kilobyte Couture</h3>
 			</a>
 		</li>
+
 	   <li>
 			<a href="rapgrounds.php">
 			<img src="../img/work/hood-thumb.png" />
 			<h3>Rapgrounds</h3>
 			</a>
 		</li>
+
 	   <li>
 		<a href="logos.php">
 		<img src="../img/work/logos-thumb.png" />
 		<h3>Logos</h3>
 		</a>
 		</li>
+
 	</ul>
 </div>
 <?php include_once 'bottom.php'; ?>

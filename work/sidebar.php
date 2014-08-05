@@ -11,7 +11,8 @@
       data-tweet-limit="1"
       data-chrome="nofooter noheader no-borders transparent"
       href="https://twitter.com/brittanyforks"
-      data-widget-id="493982143748374528">Tweets by @brittanyforks
+      data-widget-id="493982143748374528">
+        Tweets by @brittanyforks
     </a>
   </section>
 

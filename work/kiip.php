@@ -12,13 +12,7 @@
 				<li class="cycle-next"><a href="#next">Next</a></li>
 			</ul>
 			<h1>Kiip</h1>
-			<p>
-				From 2006-2010 I ran a small jewelry business called Kilobyte Couture. I made pieces out of vintage,
-				unused computer components. In 2007 I was asked by Watson-Guptill, a subsidiary of Random House to create
-				a how-to book based on my jewelry line. Here is some work from Kilobyte Couture as well as the cover and
-				sample spreads from the book. Over the four year lifespan I went through four website revisions, two shopping carts,
-				as well as two branding campaigns. Visit Kilobyte Couture <a href="http://kilobytecouture.com">here</a>.
-			</p>
+			<p>As lead product designer, I've worked with our founders to discuss needs and goals for the product, managed junior designers, designed apps for iOS/Android, redesigned our reward units, designed user flows for our advertiser dashboards, created many illustrations, developed branding and iconography for use company wide.</p>
 			<ul class="tags">
 				<li>branding</li>
 				<li>illustration</li>

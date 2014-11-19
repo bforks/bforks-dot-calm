@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background-size"
+			],
+			[
 				"e",
 				"Element"
 			],
@@ -42,10 +46,6 @@
 			[
 				"lin",
 				"letter-spacing"
-			],
-			[
-				"back",
-				"background-color"
 			]
 		]
 	},
@@ -63,15 +63,15 @@
 			"file": "work/index.php",
 			"settings":
 			{
-				"buffer_size": 1245,
+				"buffer_size": 1469,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "work/disney-logo.php",
+			"file": "work/kudos.php",
 			"settings":
 			{
-				"buffer_size": 1392,
+				"buffer_size": 2548,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +87,7 @@
 			"file": "work/kiip.php",
 			"settings":
 			{
-				"buffer_size": 1314,
+				"buffer_size": 1077,
 				"line_ending": "Unix"
 			}
 		},
@@ -111,8 +111,17 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 6988,
+				"buffer_size": 7101,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/brittany/Desktop/irssi-config.txt",
+			"settings":
+			{
+				"buffer_size": 7258,
+				"line_ending": "Unix",
+				"name": "servers = ("
 			}
 		},
 		{
@@ -266,7 +275,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -291,10 +300,10 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 171.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -303,56 +312,57 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1245,
+						"buffer_size": 1469,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								703,
-								703
+								1419,
+								1419
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "work/kudos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2343,
+								2343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "work/disney-logo.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1392,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								626,
-								626
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -381,7 +391,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -390,21 +400,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1314,
+						"buffer_size": 1077,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1314,
-								1314
+								988,
+								988
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -440,7 +451,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -468,7 +479,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -483,15 +494,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6988,
+						"buffer_size": 7101,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6678,
-								6678
+								2414,
+								2414
 							]
 						],
 						"settings":
@@ -500,14 +511,45 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1582.0,
+						"translation.y": 1849.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 8,
+					"file": "/Users/brittany/Desktop/irssi-config.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7258
+							]
+						],
+						"settings":
+						{
+							"auto_name": "servers = (",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
 					"file": "css/blueprint.css",
 					"semi_transient": false,
 					"settings":
@@ -530,10 +572,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 776.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -567,7 +609,7 @@
 		"cols":
 		[
 			0.0,
-			0.685494755091,
+			0.611172626074,
 			1.0
 		],
 		"rows":
@@ -670,7 +712,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 210.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

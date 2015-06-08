@@ -13,8 +13,5 @@
     <script src="../lib/foundation-essentials-5/js/vendor/modernizr.js"></script>
     <script src="../lib/foundation-essentials-5/js/vendor/jquery.js"></script>
     <script src="../lib/foundation-essentials-5/js/foundation.min.js"></script>
-
-    <script src="js/events.js"></script>
-    <script src="js/life.js"></script>
 </head>
 <body>

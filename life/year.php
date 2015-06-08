@@ -5,6 +5,7 @@
     $year = date("Y", strtotime($date));
 ?>
 
+<script src="js/events.js"></script>
 <link rel="stylesheet" href="css/year.css" />
 
 <script type="text/javascript">

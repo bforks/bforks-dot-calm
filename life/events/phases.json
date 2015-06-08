@@ -1,0 +1,23 @@
+[
+    {
+        "start" : "2003-08-18",
+        "end" : "2008-05-03",
+        "emoji" : "🍎",
+        "description" : "In college"
+    },
+	
+    {
+        "start" : "2013-04-10",
+        "end" : "2014-12-31",
+        "emoji" : "👨",
+        "description" : "Working at Kiip"
+    },
+	
+    {
+        "start" : "2015-01-12",
+        "end" : "2020-01-01",
+        "emoji" : "🐦",
+        "description" : "Working at Twitter"
+    }
+
+]

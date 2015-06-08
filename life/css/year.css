@@ -1,0 +1,15 @@
+.phase {
+    background-color: #ddd;
+    padding: 8px;
+    margin: 5px;
+}
+
+.phase .description {
+    font-style: italic;
+}
+
+.event {
+    background-color: #eee;
+    padding: 8px;
+    margin: 5px;
+}

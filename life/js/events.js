@@ -1,9 +1,93 @@
 var Phases = [
     {
+        "start" : "1985-04-01",
+        "end" : "1986-06-14",
+        "emoji" : "🏡",
+        "description" : "Living in Dalhart, Texas",
+    },
+
+    {
+        "start" : "1986-06-15",
+        "end" : "1992-10-14",
+        "emoji" : "🏡",
+        "description" : "Living in Montgomery, Alabama",
+    },
+
+    {
+        "start" : "1990-08-15",
+        "end" : "1992-10-14",
+        "emoji" : "🍎",
+        "description" : "Attending Dannelly Elementary School",
+    },
+
+    {
+        "start" : "1992-10-15",
+        "end" : "1994-03-14",
+        "emoji" : "🏡",
+        "description" : "Living in Dalhart, Texas",
+    },
+
+    {
+        "start" : "1992-10-15",
+        "end" : "1993-05-20",
+        "emoji" : "📏",
+        "description" : "Attending St. Anthony's Catholic School",
+    },
+
+    {
+        "start" : "1993-08-15",
+        "end" : "1994-03-14",
+        "emoji" : "🍎",
+        "description" : "Attending Dalhart Elementary School",
+    },
+
+    {
+        "start" : "1994-03-15",
+        "end" : "2008-06-12",
+        "emoji" : "🏡",
+        "description" : "Living in Starkville, Mississippi",
+    },
+
+    {
+        "start" : "1994-03-15",
+        "end" : "1997-05-20",
+        "emoji" : "🍎",
+        "description" : "Attending Starkville Elementary Schools",
+    },
+
+    {
+        "start" : "1997-08-06",
+        "end" : "2000-05-20",
+        "emoji" : "📓",
+        "description" : "Attending Starkville Academy",
+    },
+
+    {
+        "start" : "2000-08-06",
+        "end" : "2003-05-20",
+        "emoji" : "🏫",
+        "description" : "Attending Starkville High",
+    },
+
+    {
         "start" : "2003-08-18",
         "end" : "2008-05-03",
-        "emoji" : "🍎",
+        "emoji" : "📖",
         "description" : "In college",
+    },
+
+    {
+        "start" : "2008-06-13",
+        "end" : "2011-09-17",
+        "emoji" : "🏡",
+        "description" : "Living in Austin, Texas",
+    },
+
+    {
+        "start" : "2011-09-18",
+        "end" : "2020-01-01",
+        "emoji" : "🏡",
+        "description" : "Living in San Francisco, California",
     },
 
     {
@@ -159,6 +243,11 @@ var Dates = {
         "description" : "Turned 22",
     },
 
+    "2007-10-08" : {
+        "emoji" : "🗽",
+        "description" : "Traveled to New York City",
+    },
+
     "2008-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 23",
@@ -167,6 +256,16 @@ var Dates = {
     "2008-05-05" : {
         "emoji" : "🎓",
         "description" : "Graduated from Mississippi State University",
+    },
+
+    "2008-06-12" : {
+        "emoji" : "🚚",
+        "description" : "Moved to Austin",
+    },
+
+    "2008-09-27" : {
+        "emoji" : "📎",
+        "description" : "Started first job at NetQoS",
     },
 
     "2009-04-01" : {
@@ -184,9 +283,24 @@ var Dates = {
         "description" : "Turned 26",
     },
 
+    "2011-09-18" : {
+        "emoji" : "🌉",
+        "description" : "Moved to San Francisco",
+    },
+
+    "2012-02-10" : {
+        "emoji" : "👋",
+        "description" : "Met Roger",
+    },
+
     "2012-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 27",
+    },
+
+    "2013-02-01" : {
+        "emoji" : "👫",
+        "description" : "Started dating Roger",
     },
 
     "2013-04-01" : {

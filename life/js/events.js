@@ -7,29 +7,30 @@ var Phases = [
     },
 
     {
+        "start" : "2013-04-10",
+        "end" : "2014-12-31",
+        "emoji" : "👨",
+        "description" : "Working at Kiip",
+    }
+
+    {
         "start" : "2015-01-12",
         "end" : "2020-01-01",
         "emoji" : "🐦",
         "description" : "Working at Twitter",
     },
 
-    {
-        "start" : "2013-10-08",
-        "end" : "2020-01-01",
-        "emoji" : "👨",
-        "description" : "Living with Roger",
-    }
 ];
 
 var Dates = {
     "1985-04-01" : {
         "emoji" : "👶",
-        "description" : "Day I was born",
+        "description" : "Born at 12:44 a.m. 8lbs 0oz",
     },
 
     "1985-04-02" : {
         "emoji" : "🏠",
-        "description" : "Day I was brought home",
+        "description" : "Brought home",
     },
 
     "1986-04-01" : {
@@ -122,9 +123,15 @@ var Dates = {
         "description" : "Turned 18",
     },
 
+
+    "2003-05-20" : {
+        "emoji" : "🎓",
+        "description" : "Graduated from Starkville High School",
+    },
+
     "2003-08-18" : {
         "emoji" : "📚",
-        "description" : "Started college",
+        "description" : "Started college at Mississippi State",
     },
 
     "2004-04-01" : {
@@ -135,6 +142,11 @@ var Dates = {
     "2005-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 20",
+    },
+
+    "2005-12-05" : {
+        "emoji" : "🎨",
+        "description" : "Accepted into graphic design program",
     },
 
     "2006-04-01" : {
@@ -154,7 +166,7 @@ var Dates = {
 
     "2008-05-05" : {
         "emoji" : "🎓",
-        "description" : "Graduated college",
+        "description" : "Graduated from Mississippi State University",
     },
 
     "2009-04-01" : {
@@ -190,6 +202,11 @@ var Dates = {
     "2014-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 29",
+    },
+
+    "2014-12-19" : {
+        "emoji" : "🗼",
+        "description" : "Traveled to Japan",
     },
 
     "2015-01-12" : {

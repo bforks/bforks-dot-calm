@@ -159,6 +159,11 @@
         "description" : "Turned 22"
     },
 
+    "2007-10-01" : {
+        "emoji" : "🗽",
+        "description" : "Traveled to New York City"
+    },
+
     "2008-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 23"
@@ -194,9 +199,19 @@
         "description" : "Moved to San Francisco, California"
     },
 
+    "2012-02-10" : {
+        "emoji" : "👋",
+        "description" : "Met Roger"
+    },
+
     "2012-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 27"
+    },
+
+    "2013-02-01" : {
+        "emoji" : "👫",
+        "description" : "Started dating Roger"
     },
 
     "2013-04-01" : {
@@ -216,7 +231,7 @@
 
     "2014-12-19" : {
         "emoji" : "🗼",
-        "description" : "Traveled to Japan"
+        "description" : "Traveled to Tokyo & Kyoto Japan"
     },
 
     "2015-01-12" : {

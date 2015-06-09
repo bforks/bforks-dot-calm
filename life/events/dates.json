@@ -49,6 +49,11 @@
         "description" : "Started Kindergarten at Dannelly Elementary School"
     },
 
+    "1991-02-10" : {
+        "emoji" : "😷",
+        "description" : "Chicken Pox"
+    },
+
     "1991-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 6"
@@ -104,14 +109,29 @@
         "description" : "Turned 14"
     },
 
+    "1999-08-12" : {
+        "emoji" : "🏫",
+        "description" : "Began High School at Starkville Academy"
+    },
+
     "2000-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 15"
     },
 
+    "2000-08-05" : {
+        "emoji" : "🏫",
+        "description" : "Transferred to Starkville High"
+    },
+
     "2001-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 16"
+    },
+
+    "2001-12-01" : {
+        "emoji" : "💋",
+        "description" : "First kiss"
     },
 
     "2002-04-01" : {
@@ -134,6 +154,11 @@
         "description" : "Started college at Mississippi State"
     },
 
+    "2003-12-26" : {
+        "emoji" : "🚗",
+        "description" : "Purchased first car, a 1996 Saturn SC2"
+    },
+
     "2004-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 19"
@@ -149,14 +174,29 @@
         "description" : "Accepted into graphic design program"
     },
 
+    "2006-03-27" : {
+        "emoji" : "💻",
+        "description" : "Purchased my first MacBook Pro"
+    },
+
     "2006-04-01" : {
         "emoji" : "🍹",
         "description" : "Turned 21"
     },
 
+    "2006-05-15" : {
+        "emoji" : "💡",
+        "description" : "Founded Kilobyte Couture"
+    },
+
     "2007-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 22"
+    },
+
+    "2007-04-15" : {
+        "emoji" : "✒️",
+        "description" : "Signed book deal with Watson-Guptill"
     },
 
     "2007-10-01" : {
@@ -179,9 +219,19 @@
         "description" : "Moved to Austin, Texas"
     },
 
+    "2008-09-27" : {
+        "emoji" : "💼",
+        "description" : "Began working at NetQoS"
+    },
+
     "2009-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 24"
+    },
+
+    "2009-04-10" : {
+        "emoji" : "📘",
+        "description" : "My book Kilobyte Couture was published"
     },
 
     "2010-04-01" : {
@@ -199,6 +249,11 @@
         "description" : "Moved to San Francisco, California"
     },
 
+    "2011-10-15" : {
+        "emoji" : "💼",
+        "description" : "Began working at Everlane"
+    },
+
     "2012-02-10" : {
         "emoji" : "👋",
         "description" : "Met Roger"
@@ -209,9 +264,19 @@
         "description" : "Turned 27"
     },
 
+    "2012-04-12" : {
+        "emoji" : "💼",
+        "description" : "Began working at Wanelo"
+    },
+
     "2013-02-01" : {
         "emoji" : "👫",
         "description" : "Started dating Roger"
+    },
+
+    "2013-04-10" : {
+        "emoji" : "💼",
+        "description" : "Began working at Kiip"
     },
 
     "2013-04-01" : {
@@ -251,7 +316,7 @@
 
     "2076-12-03" : {
         "emoji" : "💀",
-        "description" : "Expected death date"
+        "description" : "Predicted deathdate at 91 years old"
     },
 
     "2085-04-01" : {

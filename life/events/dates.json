@@ -59,6 +59,11 @@
         "description" : "Turned 6"
     },
 
+    "1992-01-20" : {
+        "emoji" : "▫️",
+        "description" : "Lost first tooth"
+    },
+
     "1992-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 7"
@@ -67,6 +72,11 @@
     "1992-10-15" : {
         "emoji" : "🚚",
         "description" : "Moved to Dalhart, Texas"
+    },
+
+    "1992-12-25" : {
+        "emoji" : "👾",
+        "description" : "Santa brought my first video game console, a Super Nintendo"
     },
 
     "1993-04-01" : {

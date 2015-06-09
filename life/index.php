@@ -8,13 +8,13 @@
 <script src="js/life.js"></script>
 
 <div class="row">
-    <div class="large-12 columns">
+    <div class="large-12 small-12 columns">
         <h1>Sup</h1>
     </div>
 </div>
 
 <div class="row lifetime">
-    <div class="large-12 columns">
+    <div class="large-12 small-12 columns">
         <?php
 			$events = new Events();
             $birthdate = new DateTime("4/1/1985");

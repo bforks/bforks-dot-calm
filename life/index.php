@@ -46,12 +46,18 @@
 
 
 				$innerHTML = "";
+				// class = "week empty past";
+
+
 
 				if ($startDate->getTimestamp() < $today->getTimestamp()) {
                    $weekClassName = "week empty past";
                 } else {
                     $weekClassName = "week empty";
                 }
+
+
+
 
 				$dateStamp = $startDate->format("Y-m-d");
 

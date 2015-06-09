@@ -1,4 +1,7 @@
-<?php include("header.php"); ?>
+<?php 
+	include("header.php");
+	include("events.php");
+?>
 
 <script src="../lib/dateFormat.js"></script>
 <script src="js/events.js"></script>
@@ -13,35 +16,59 @@
 <div class="row lifetime">
     <div class="large-12 columns">
         <?php
-            $startDate = new DateTime("4/1/1985");
-
-            $date = clone $startDate;
-            $today = new DateTime();
-            $thisYear = date("Y");
+			$events = new Events();
+            $birthdate = new DateTime("4/1/1985");
+			
+			$startDate = clone $birthdate;
+			$endDate = clone $startDate;
+			$endDate->add(new DateInterval("P100Y")); // 100 years
+			
+			$weekDict = $events->keyedWeekDictionary($birthdate);
+		?>
+		<div class="year">
+		<?php
+			$nextBirthday = clone $birthdate;
+			$nextBirthday->add(new DateInterval("P1Y"));
+			
+			$weekCounter = 0;
+			while ($startDate < $endDate) {
+				$nextDate = clone $startDate;
+				$nextDate->add(new DateInterval("P1W"));
+				
+				$diff = $nextDate->diff($nextBirthday);
+				if ($diff->invert == 1 ) {
+					echo "</div>\n";
+					echo "<div class=\"year\">\n";
+					
+					$nextBirthday->add(new DateInterval("P1Y"));
+				}
+				
+				
+				$innerHTML = "";
+				$class = "week empty past";
+				$dateStamp = $startDate->format("Y-m-d");
+				
+				if (array_key_exists($weekCounter, $weekDict)) {
+					$eventsThisWeek = $weekDict[$weekCounter];
+					
+					// Only use the first event this week as the representative item
+					$event = $eventsThisWeek[0];
+					$innerHTML = $event["emoji"];
+					$class = "week";
+				}
+				
+				?>
+				
+				<div title="<?=$dateStamp?>" date="<?=$dateStamp?>" class="<?=$class?>"><?=$innerHTML?></div>
+				
+				<?php
+				
+				$weekCounter++;
+				$startDate = $nextDate;
+			}
+			echo "</div>"
+			
         ?>
-        <?php for ($year = 1985; $year < (1985 + 100); $year++) { ?>
-            <div class="year">
-                <?php
-                for ($i = 0; $i < 52; $i++) {
-                    if ($date->getTimestamp() < $today->getTimestamp()) {
-                        $weekClassName = "week empty past";
-                    } else {
-                        $weekClassName = "week empty";
-                    }
-
-                    $dateString = $date->format("Y-m-d");
-                ?>
-                    <div title="<?=$dateString?>" class="<?=$weekClassName?>" date="<?=$dateString?>"></div>
-
-                <?php
-                    // Add one week to $date
-                    $date->add(new DateInterval("P7D"));
-                } ?>
-            </div>
-        <?php
-            $startDate->add(new DateInterval("P1Y"));
-            $date = clone $startDate;
-        } ?>
     </div>
 </div>
 

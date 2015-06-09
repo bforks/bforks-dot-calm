@@ -19,3 +19,12 @@
 .week.empty.past {
     background-color: #FAE3E3;
 }
+
+.thanks {
+    font-size: 6pt;
+    color: #aaa;
+}
+
+.thanks a {
+    color: pink;
+}

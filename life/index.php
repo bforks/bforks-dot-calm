@@ -10,6 +10,7 @@
 <div class="row">
     <div class="large-12 small-12 columns">
         <h1>Sup</h1>
+        <p>This is the story of my life told in emoji, every dark pink dot represents a week i've been alive...</p>
     </div>
 </div>
 
@@ -82,6 +83,18 @@
 			echo "</div>"
 
         ?>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+
+<div class="row">
+    <div class="large-12 small-12 columns thanks">
+        <p>👏 Special thanks to <a href="http://james.magahern.com">James</a> and
+        <a href="http://twitter.com/x5315">Tom</a> for helping me build this representation of my life.
+        Also big thanks to <a href="http://busterbenson.com">Buster Benson</a> for giving me the inspiration to create my own life graph.</p>
     </div>
 </div>
 

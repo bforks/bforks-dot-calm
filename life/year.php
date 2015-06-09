@@ -42,8 +42,9 @@
                 $dateFormatted = $event["date"]->format("F j");
 			?>
 				<div class="event">
-                    <?=$dateFormatted?>
 					<?=$event["emoji"]?>
+                    <?=$dateFormatted?>
+                    <br>
 					<?=$event["description"]?>
 				</div>
 			<?php

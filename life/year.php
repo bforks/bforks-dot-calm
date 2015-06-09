@@ -2,13 +2,15 @@
     include("header.php");
 	include("events.php");
 
-    $date = $_GET["date"];
-    $year = date("Y", strtotime($date));
+    $date = new DateTime($_GET["date"]);
+    $year = $date->format("Y");
 
 	$events = new Events();
 	$eventsForYear = $events->eventsForYear($year);
 
-	$phasesDuringDate = $events->phasesDuringDate(new DateTime($date));
+	// Say dates since the beginning of the year
+	$date->setDate($year, 1, 1);
+	$phasesDuringDate = $events->phasesDuringDate($date);
 ?>
 
 <script src="js/events.js"></script>

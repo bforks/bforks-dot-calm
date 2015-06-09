@@ -1,16 +1,18 @@
 
 .week {
     display: inline-block;
-    border-radius: 6px;
-    width: 10px;
-    height: 10px;
-    margin: 0px;
-    cursor: pointer;
-    font-size: 8pt;
+
 }
 
 .week.empty {
     background-color: #FFF9F9;
+    border-radius: 6px;
+    width: 8px;
+    height: 8px;
+    margin: 0px;
+    cursor: pointer;
+    font-size: 8pt;
+    margin: 2px;
 }
 
 .week.empty.past {

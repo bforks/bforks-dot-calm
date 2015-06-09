@@ -247,5 +247,15 @@
     "2015-06-08" : {
         "emoji" : "🍪",
         "description" : "Cookie day, we made this website."
+    },
+
+    "2076-12-03" : {
+        "emoji" : "💀",
+        "description" : "Expected death date"
+    },
+
+    "2085-04-01" : {
+        "emoji" : "💯",
+        "description" : "100th birthday"
     }
 }

@@ -249,6 +249,11 @@
         "description" : "My book Kilobyte Couture was published"
     },
 
+    "2009-11-19" : {
+        "emoji" : "📈",
+        "description" : "My employer NetQoS merged with CA Technologies"
+    },
+
     "2010-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 25"

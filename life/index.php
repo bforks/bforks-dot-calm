@@ -49,8 +49,8 @@
 				// class = "week empty past";
 
 
-
-				if ($startDate->getTimestamp() < $today->getTimestamp()) {
+				$diff = $today->diff($startDate);
+				if ($diff->invert == 1) {
                    $weekClassName = "week empty past";
                 } else {
                     $weekClassName = "week empty";

@@ -24,6 +24,11 @@
         "description" : "Turned 2"
     },
 
+    "1987-10-12" : {
+        "emoji" : "🍼",
+        "description" : "My sister, Allison, was born"
+    },
+
     "1988-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 3"
@@ -37,6 +42,11 @@
     "1990-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 5"
+    },
+
+    "1990-08-15" : {
+        "emoji" : "🍎",
+        "description" : "Started Kindergarten at Dannelly Elementary School"
     },
 
     "1991-04-01" : {

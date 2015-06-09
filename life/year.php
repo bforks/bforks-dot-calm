@@ -4,10 +4,10 @@
 
     $date = $_GET["date"];
     $year = date("Y", strtotime($date));
-	
+
 	$events = new Events();
 	$eventsForYear = $events->eventsForYear($year);
-	
+
 	$phasesDuringDate = $events->phasesDuringDate(new DateTime($date));
 ?>
 
@@ -39,8 +39,10 @@
         <div id="dates">
         	<?php
 			foreach ($eventsForYear as $event) {
+                $dateFormatted = $event["date"]->format("F j");
 			?>
 				<div class="event">
+                    <?=$dateFormatted?>
 					<?=$event["emoji"]?>
 					<?=$event["description"]?>
 				</div>

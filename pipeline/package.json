@@ -1,0 +1,8 @@
+{
+  "name": "life-pipeline",
+  "version": "0.0.0",
+  "description": "hi",
+  "dependencies": {
+    "tumblr": "0.4.1"
+  }
+}

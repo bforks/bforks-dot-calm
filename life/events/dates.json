@@ -46,12 +46,12 @@
 
     "1990-08-15" : {
         "emoji" : "🍎",
-        "description" : "Started Kindergarten at Dannelly Elementary School"
+        "description" : "Started kindergarten at Dannelly Elementary School"
     },
 
     "1991-02-10" : {
         "emoji" : "😷",
-        "description" : "Chicken Pox"
+        "description" : "Chicken pox"
     },
 
     "1991-04-01" : {
@@ -107,6 +107,11 @@
     "1997-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 12"
+    },
+
+    "1997-08-12" : {
+        "emoji" : "📓",
+        "description" : "Started Junior High"
     },
 
     "1998-04-01" : {
@@ -277,6 +282,11 @@
     "2012-02-10" : {
         "emoji" : "👋",
         "description" : "Met Roger"
+    },
+
+    "2012-02-15" : {
+        "emoji" : "🚗",
+        "description" : "Sold my car"
     },
 
     "2012-04-01" : {

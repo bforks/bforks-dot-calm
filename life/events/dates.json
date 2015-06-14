@@ -1,7 +1,7 @@
 {
     "1985-04-01" : {
         "emoji" : "👶",
-        "description" : "Born at 12:44 a.m. 8lbs 0oz"
+        "description" : "Born at 12:44 a.m. 8lbs 0oz & 20in"
     },
 
     "1985-04-02" : {
@@ -9,19 +9,39 @@
         "description" : "Brought home"
     },
 
+    "1985-10-15" : {
+        "emoji" : "😁",
+        "description" : "First tooth"
+    },
+
+    "1986-02-01" : {
+        "emoji" : "👣",
+        "description" : "First step"
+    },
+
+    "1986-03-01" : {
+        "emoji" : "🏃",
+        "description" : "Began walking"
+    },
+
     "1986-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 1"
     },
 
-    "1986-06-15" : {
-        "emoji" : "🚚",
-        "description" : "Moved to Montgomery, Alabama"
+    "1986-05-06" : {
+        "emoji" : "💇",
+        "description" : "First haircut"
     },
 
     "1987-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 2"
+    },
+
+    "1987-08-01" : {
+        "emoji" : "🚚",
+        "description" : "Moved to Montgomery, Alabama"
     },
 
     "1987-10-12" : {
@@ -34,9 +54,19 @@
         "description" : "Turned 3"
     },
 
+    "1988-09-01" : {
+        "emoji" : "🍏",
+        "description" : "Started Preschool at Aldersgate United Methodist"
+    },
+
     "1989-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 4"
+    },
+
+    "1990-03-01" : {
+        "emoji" : "✏️",
+        "description" : "Learned to write my name"
     },
 
     "1990-04-01" : {
@@ -67,6 +97,11 @@
     "1992-04-01" : {
         "emoji" : "🎂",
         "description" : "Turned 7"
+    },
+
+    "1992-05-01" : {
+        "emoji" : "🐶",
+        "description" : "First Pet, Belle a black lab"
     },
 
     "1992-10-15" : {

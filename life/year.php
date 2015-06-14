@@ -14,10 +14,11 @@
 ?>
 
 <script src="js/events.js"></script>
+<link rel="stylesheet" href="css/life.css" />
 <link rel="stylesheet" href="css/year.css" />
 
 <div class="row">
-    <div class="large-12 columns">
+    <div class="large-12 columns year">
         <h1><?=$year?></h1>
     </div>
 </div>

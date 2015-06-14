@@ -8,6 +8,18 @@
 <script src="js/life.js"></script>
 
 <div class="row">
+    <div class="large-12 small-12 columns about">
+        <p>Hello, I'm Brittany Forks. I'm a designer, illustrator, and crafter. I'm in love with the internet. I'm also a published author.</p>
+
+        <p>In 2009, I wrote a book with Random House called Kilobyte Couture. It's a how-to book on making fancy jewelry out of computer components. You can check it out on <a href="http://www.amazon.com/Kilobyte-Couture-Easy-To-Find-Computer-Components/dp/0823099024" target="_blank" class="green">Amazon</a>.</p>
+
+        <p>Lately, I've been illustrating more. Improving your craft should be a lifelong goal. At least, that's what I believe. Check out how my skills are progressing on <a href="/work" class="purple">my portfolio</a> or <a href="http://dribbble.com/brittanyforks" class="pink">Dribbble</a>.</p>
+
+        <p>When I'm not designing at Twitter &mdash; I'm exploring San Francisco, polishing my nails at <a href="http://nailconf.com" target="_blank" class="pink">#nailconf</a>, having opinions on <a href="https://twitter.com/#!/brittanyforks" target="_blank"class="blue">twitter</a>, or posting pics on <a href="http://instagram.com/brittanyforks" target="_blank" class="green">instagram</a>.</p>
+    </div>
+</div>
+
+<div class="row">
     <div class="large-12 small-12 columns">
         <h1>Sup</h1>
         <p>This is the story of my life told in emoji, every dark pink dot represents a week i've been alive...</p>

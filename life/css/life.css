@@ -1,3 +1,10 @@
+h1 {
+    text-align: center;
+}
+
+.about {
+    margin: 50px 0;
+}
 
 .week {
     display: inline-block;

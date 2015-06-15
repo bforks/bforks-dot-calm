@@ -14,4 +14,4 @@
     <script src="../lib/foundation-essentials-5/js/vendor/jquery.js"></script>
     <script src="../lib/foundation-essentials-5/js/foundation.min.js"></script>
 </head>
-<body>
+<body class="elifecycle">

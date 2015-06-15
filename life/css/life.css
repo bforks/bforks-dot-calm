@@ -1,9 +1,35 @@
-h1 {
-    text-align: center;
+body.elifecycle, h1 {
+    font-family: courier, monospace;
 }
 
-.about {
-    margin: 50px 0;
+.pink-band {
+width: 100%;
+background-color: #FFEAF5;
+padding: 50px 0;
+color: #F38CA8;
+}
+
+.pink-band a {
+    color: #F38CA8;
+    text-decoration: underline;
+}
+
+.strawberry {
+    width: 100%;
+    display: block;
+}
+
+.strawberry img {
+    margin: 0px 0 30px 35px;
+    width: 60px;
+}
+
+.life-descript {
+    padding-top: 30px;
+}
+
+.lifetime {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 .week {
@@ -11,15 +37,15 @@ h1 {
     height: 22px;
     line-height: 22px;
     font-size: 8pt;
+    cursor: pointer;
 }
 
 .week.empty {
-    background-color: #FFF9F9;
+    background-color: #FEF8FC;
     border-radius: 6px;
     width: 8px;
     height: 8px;
     margin: 0px;
-    cursor: pointer;
     margin: 2px;
 }
 
